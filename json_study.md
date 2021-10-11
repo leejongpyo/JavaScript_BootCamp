@@ -1,7 +1,23 @@
 ## JSON 이란?
 - JSON(JavaScript Object Notation)의 약자로 JavaScript에서 객체를 만들 때 사용하는 표현식을 의미한다.  
-  이 표현식은 사람도 이해하기 쉽고 기계도 이해하기 쉬우면서 데이터의 용량이 작다.   
+  경량의 DATA-교환 형식이며, 이 표현식은 사람도 이해하기 쉽고 기계도 이해하기 쉬우면서 생성함에도 용이하다.   
   이런 이유로 최근에는 JSON이 XML을 대체해서 설정의 저장이나 데이터를 전송등에 많이 사용된다.  
+  JSON은 완벽하게 언어로 부터 독립적이지만 C-family 언어 (C, C++, C#, Java, JavaScript, Perl, Pythone) 그외 다수의 프로그래머들에게 친숙한 관습을 
+  사용하는 텍스트 형식이다. 
+
+- simplest data interchange format
+  - 데이터를 주고받을때쓸 수 있는 가장 간단한 데이터 포맷이다.
++ lightweight text-based structure
+  - 텍스트를 기반으로한 가벼운 구조이다.
+- easy to read
+  - 읽기 편하다
++ key-value pairs
+  - 키-밸류로 이루어져있는 파일 포맷이다. 
+- used for serialization and transmission of data between the network the network connection
+  - 데이터를 서버와 주고 받을때 시리얼라이제이션(직렬화)을 위해 사용하고, 데이터를 주고 받기 위해서 사용한다.
++ **dependent programming language and platform**
+  - **그램 랭귀지나 플랫폼에 상관없이 사용가능하다.**
+
 
 <br/>
 
