@@ -9,7 +9,7 @@
 
 ## JSON 요점
 - simplest data interchange format
-  - 데이터를 주고받을때쓸 수 있는 가장 간단한 데이터 포맷이다.
+  - 데이터를 주고받을때 쓸 수 있는 가장 간단한 데이터 포맷이다.
 + lightweight text-based structure
   - 텍스트를 기반으로한 가벼운 구조이다.
 - easy to read
