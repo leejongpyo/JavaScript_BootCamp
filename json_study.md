@@ -19,7 +19,7 @@
 - used for serialization and transmission of data between the network the network connection
   - 데이터를 서버와 주고 받을때 시리얼라이제이션(직렬화)을 위해 사용하고, 데이터를 주고 받기 위해서 사용한다.
 + **dependent programming language and platform**
-  - **그램 랭귀지나 플랫폼에 상관없이 사용가능하다.**
+  - **프로그램 랭귀지나 플랫폼에 상관없이 사용가능하다.**
 
 
 <br/>
