@@ -5,6 +5,9 @@
   JSON은 완벽하게 언어로 부터 독립적이지만 C-family 언어 (C, C++, C#, Java, JavaScript, Perl, Pythone) 그외 다수의 프로그래머들에게 친숙한 관습을 
   사용하는 텍스트 형식이다. 
 
+<br/>
+
+## JSON 요점
 - simplest data interchange format
   - 데이터를 주고받을때쓸 수 있는 가장 간단한 데이터 포맷이다.
 + lightweight text-based structure
